@@ -29,13 +29,17 @@ testing readme
 tes message 
 
 tes 6
+   fjhhljlgfjhbl
+   
+   klgjkgkhlkj
+   
    
    
    
    tererewr qw wq qw
    
     
-         
+SKIP_CI         
           
                
  
