@@ -9,3 +9,4 @@ test
 test 55
 SKIP_CI
 CI_SKIP
+SKIP_CI
