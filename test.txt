@@ -8,3 +8,4 @@ tet 66
 test
 test 55
 SKIP_CI
+CI_SKIP
