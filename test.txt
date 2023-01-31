@@ -5,3 +5,4 @@ SKIP message
 test
 test
 tet 66
+test
